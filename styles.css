@@ -1,0 +1,30 @@
+#mainHeader {
+  background-color: orange;
+  color: red;
+  padding: 15px;
+  margin: 3px;
+  text-align: center;
+}
+#presentation {
+  font-size: large;
+  font-style: italic;
+  margin-left: 5mm;
+}
+footer {
+  float: left;
+}
+#index {
+  float: right;
+  margin-bottom: 1cm;
+  margin-right: 2cm;
+}
+#chad {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#poesia {
+  display: block;
+  font-size: large;
+  text-align: center;
+}
